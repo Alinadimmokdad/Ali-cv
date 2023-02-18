@@ -1,0 +1,47 @@
+body {
+    background-color:  #eaf6f6;
+
+}
+hr {
+    background-color: #eaf6f6;
+   
+    border-style: none;
+    border-top: dotted;
+    border-color: grey;
+    border-width: 8px;
+    width: 5%;
+}
+img{
+    height: 200px;
+}
+h1 {
+    color:#66BFBF ;
+
+}
+h3 {
+    color: #66BFBF;
+}
+.my-photo{
+    border-radius: 40%;
+}
+
+.external-link {
+    color: blue;
+    font-size: 16px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    transition: color .2s ease;
+}
+
+.external-link:hover {
+    color: aqua;
+}
+
+.external-link:focus {
+    color: black;
+}
+
+.external-icon {
+    width: 30px;
+    height: 30px;
+}
